@@ -3,3 +3,4 @@ ailg/alist
 xiaoyaliu/alist
 jellyfin/jellyfin
 ailg/ggbond
+nyanmisaka/jellyfin
