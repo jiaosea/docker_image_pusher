@@ -4,3 +4,4 @@ xiaoyaliu/alist
 jellyfin/jellyfin
 ailg/ggbond
 nyanmisaka/jellyfin
+emby/embyserver
