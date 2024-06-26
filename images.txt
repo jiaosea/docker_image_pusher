@@ -5,3 +5,4 @@ jellyfin/jellyfin
 ailg/ggbond
 nyanmisaka/jellyfin
 emby/embyserver
+amilys/embyserver:4.8.0.56
